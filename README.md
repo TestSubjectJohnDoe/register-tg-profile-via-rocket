@@ -42,3 +42,7 @@ errors also were tested outside of this image
 
 ## license
 do whatever you want tbh, i don't really care much.
+
+## These guides helped me to make this dream come to true, thanks!
+https://github.com/bmwas/rocketchat-developer-docs/blob/master/bots/creating-your-own-bot-from-scratch/develop-a-rocket.chat-sdk-bot.md
+https://github.com/RocketChat/Rocket.Chat.js.SDK

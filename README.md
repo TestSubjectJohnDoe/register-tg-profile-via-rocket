@@ -9,7 +9,7 @@
 - your name is unknown, and you won't be displayed with your tag like some animal with a collar 
 - IT'S FREE :D
 
-## setup. Didn't test setup, but in era of Issues tab - go nuts!
+## setup. Didn't test setup, but in era of Issues and Pull request tab - go nuts!
 download source.zip from releases
 
 cd register-tg-profile-via-rocket

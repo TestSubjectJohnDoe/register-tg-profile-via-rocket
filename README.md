@@ -32,6 +32,9 @@ const ROOM = 'room_name';
 ## run
 node bot.js
 
+## and result
+![As simple as that](images/untitled.png)
+
 ## notes
 - bot sends messages to Rocket.Chat as you
 - after successful verification, new `/numbers` is blocked

@@ -9,24 +9,16 @@
 - your name is unknown, and you won't be displayed with your tag like some animal with a collar 
 - IT'S FREE :D
 
-## setup
-git clone https://github.com/TestSubjectJohnDoe/register-tg-profile-via-rocket.git
+## setup. Didn't test setup, but in era of Issues tab - go nuts!
+download source.zip from releases
 
 cd register-tg-profile-via-rocket
 
 npm install
 
+---
 
-## config
-create `.env`:
-
-ROCKETCHAT_URL=
-
-USER_NAME=
-
-USER_PASS=
-
-TELEGRAM_TOKEN=
+set config .env
 
 ---
 

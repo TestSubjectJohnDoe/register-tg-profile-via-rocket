@@ -1,0 +1,48 @@
+
+# morty you son of a, i'm in
+
+## how it works
+- no need to trust noisy non‑opensource projects  
+- no need to put it into general chat where your messages can be saved and later shown to your boss  
+- easy, simple alternative. Perfect the way it is. Doesn't take much time to download dependencies or resources to host this bot.  
+- doesn't look like that rkn bot that people had to put into tg channel after hitting 10k subs  
+- your name is unknown, and you won't be displayed with your tag like some animal with a collar 
+- IT'S FREE :D
+
+## setup
+git clone https://github.com/TestSubjectJohnDoe/register-tg-profile-via-rocket.git
+
+cd register-tg-profile-via-rocket
+
+npm install
+
+
+## config
+create `.env`:
+
+ROCKETCHAT_URL=
+
+USER_NAME=
+
+USER_PASS=
+
+TELEGRAM_TOKEN=
+
+---
+
+to change the target room, edit `ROOM` in `bot.js`:
+
+const ROOM = 'room_name'; 
+
+## telegram command
+- `/numbers` – get a new code (if no active session for now)
+
+## run
+node bot.js
+
+## notes
+- bot sends messages to Rocket.Chat as you
+- after successful verification, new `/numbers` is blocked
+
+## license
+do whatever you want tbh, i don't really care much.

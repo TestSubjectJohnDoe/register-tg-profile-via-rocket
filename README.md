@@ -33,7 +33,8 @@ const ROOM = 'room_name';
 node bot.js
 
 ## and result
-![As simple as that](images/untitled.png)
+![As simple as that](images/Untitled.png)
+errors also were tested outside of this image
 
 ## notes
 - bot sends messages to Rocket.Chat as you

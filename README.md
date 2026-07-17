@@ -41,7 +41,7 @@ errors also were tested outside of this image
 - after successful verification, new `/numbers` is blocked
 
 ## license
-do whatever you want tbh, i don't really care much.
+do whatever you want tbh, i don't really care much. :shipit:
 
 ## These guides helped me to make this dream come to true, thanks!
 https://github.com/bmwas/rocketchat-developer-docs/blob/master/bots/creating-your-own-bot-from-scratch/develop-a-rocket.chat-sdk-bot.md
